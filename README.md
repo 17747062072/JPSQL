@@ -52,9 +52,7 @@ sql注数据天上来
 ## 安装
 
 1. 克隆仓库：
-
-```bash
-git clone https://github.com/yourusername/jpsql.git
+git clone https://github.com/17747062072/JPSQL.git
 cd jpsql
 ```
 
